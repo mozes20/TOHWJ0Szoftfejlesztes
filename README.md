@@ -1,8 +1,8 @@
 # TOHWJ0Szoftfejlesztes
 
-## 1. feladat oldottam meg és annak majdnem minden rész feladatát az utolsót kivéve
-### két technológiát használtam nodejs és pytho3 a python3 at a képmanipulációhoz és a nodjset akönyű json file manipulációhoz alkalmaztam
+## 1. feladat oldottam meg és annak majdnem minden rész feladatát az utolsót kivéve minden erőm időm benne van
+### két technológiát használtam python3 at a képmanipulációhoz és a nodjset akönyű json file manipulációhoz
 
-#### A json file felépítése mindenki a panel tegben helyezkedik el és azon belül vann 3 adattag 1 egy személy mérései 2 egy másik személy mérései 3 a hiba kódok jelentése a méréseken belül képekhez vannak rendelve és azon belül vannak a hiba kódok hoyg melyik koordinátán milyen elemek hibát találtak! ugyan ez papitálva a 2. személyre is.
-#### az 1.fealdat c részében ezt kihasználva hogy 3 részre van bontva frissítettem a hiba kodolást és az értéket
-#### a választott technológiákat is ezért választottam ki
+#### A json file felépítése mindenki a Panels_X tegben helyezkedik el és azon belül vann 3 adattag 1 egy személy mérései amelyek tartalmazzák az őadatait és a képeken talált hibák helyzeteit és a hozzájuk tartozó hibakódot is. Ebböl többet is találhatunk összesen 2 .Ezek után jön egy ObjectClasses tag amiben a hiba jel magyarázatot és az azok id tartalmazza valamint egy tags részt ahol szín kodokat találunk. ezeket kellet volna az utolsó feladatban manipulálni (D alfeladat)
+#### az 1.fealdat c részében json felépítését kihasználva illetve a javascript rugalmasságát könyedségét megoldottam a feladatot.
+#### technológiákat is ezért választottam ki
