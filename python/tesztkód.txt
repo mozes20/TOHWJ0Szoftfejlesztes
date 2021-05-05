@@ -1,0 +1,1 @@
+Main.py ./1/361_366_D211AABB3A20200005.jpg ./1/Panels_3.json
